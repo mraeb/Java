@@ -1,13 +1,20 @@
-# Java Practice Repo
+\# Java Learning Journey ☕
 
-My daily Java learning journey! ☕
 
-- Started: January 2026
-- Goal: Become a tech pro 💪
-- Daily commits: Basics, DSA, Spring Boot, projects...
 
-## Day 1
-- Hello World & basic syntax
-- HelloWorld.java
+Daily practice \& projects to become a tech pro!  
 
-Keep watching! 🔥
+Started: Jan 2026  
+
+From: Andimadam  
+
+
+
+\- Basics: Syntax, loops, OOP  
+
+\- Goal: DSA, Spring Boot, real projects  
+
+
+
+Feel free to fork/star! Feedback welcome 🔥
+
