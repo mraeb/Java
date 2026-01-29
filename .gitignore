@@ -1,3 +1,5 @@
+#folders to ignore
+/projects/
 # Compiled class file
 *.class
 
