@@ -32,7 +32,7 @@ Q4: Get marks as a input from user and print grade according to the given mark.
 Q5: By using switch get input 1-7 and according to the number print the day name of the week
     Ex: 1 --> Monday, 7 --> Sunday, invalid --> "Wrong input"
 
-
+# Day 1 is completed at 30 Jan 5:28 PM IST
 
 
 
