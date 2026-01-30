@@ -35,7 +35,7 @@
 \# *Day 1 is completed at 30 Jan 5:28 PM IST*
 
 #### Day 2 - Loops(for, while, do-while), Patterns, Simple Calculations   
-- [ ] Q6. print numbers 1 to 10 using for loop and print sum of these numbers   
+- [X] Q6. print numbers 1 to 10 using for loop and print sum of these numbers   
 - [ ] Q7. get input from a user and calculate --> print the factorial of that number.  
     > Ex: 5 --> 120  
 - [ ] Q8. print a Left angle triangle by using \* **pattern**.  
