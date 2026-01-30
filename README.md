@@ -36,9 +36,9 @@ Q5. By using switch get input 1-7 and according to the number print the day name
 
 #### Day 2 - Loops(for, while, do-while), Patterns, Simple Calculations   
 Q6. print numbers 1 to 10 using for loop and print sum of these numbers   
-Q7. get input from a user and calculate --> print the factorial of that number   
+Q7. get input from a user and calculate --> print the factorial of that number
     > Ex: 5 --> 120   
-Q8. print a Left angle triangle by using \* **pattern**   
+Q8. print a Left angle triangle by using \* **pattern**
     > \*  
     > \*\*  
     > \*\*\*  
