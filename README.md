@@ -44,7 +44,7 @@
     > \*\*\*  
     > \*\*\*\*  
     > \*\*\*\*\*  
-- [ ] Q9. get a positive number input from a user and check it is a **prime number or not**   
+- [x] Q9. get a positive number input from a user and check it is a **prime number or not**   
 - [ ] Q10. using do while loop get a number from user  print the number in reverse untill the number become 0
 
 
