@@ -45,8 +45,8 @@
     > \*\*\*\*  
     > \*\*\*\*\*  
 - [x] Q9. get a positive number input from a user and check it is a **prime number or not**   
-- [ ] Q10. using do while loop get a number from user  print the number in reverse untill the number become 0
-
+- [x] Q10. using do while loop get a number from user  print the number in reverse untill the number become 0
+- [ ] Q11. get int N as input and print even numbers untill N.
 
 
 Feel free to fork/star! Feedback welcome 🔥
