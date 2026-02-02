@@ -46,8 +46,16 @@
     > \*\*\*\*\*  
 - [x] Q9. get a positive number input from a user and check it is a **prime number or not**   
 - [x] Q10. using do while loop get a number from user  print the number in reverse untill the number become 0
-- [ ] Q11. get int N as input and print even numbers untill N.
+- [x] Q11. get int N as input and print even numbers untill N.
 
+#### Day 3 - Array Basics  
+- [ ] Q12. Array Sum & Average
+- [ ] Q13. Find Max & Min in Array
+- [ ] Q14. Reverse Array
+
+#### Day 4 - Methods
+- [ ] Q15. Simple Math Functions, create methods for add, subtract, multiply functions create & call.
+- [ ] Q16. Prime Check Function create a method for checking prime or not - "isPrime.java".
 
 Feel free to fork/star! Feedback welcome 🔥
 
