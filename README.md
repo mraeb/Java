@@ -49,7 +49,7 @@
 - [x] Q11. get int N as input and print even numbers untill N.
 
 #### Day 3 - Array Basics  
-- [ ] Q12. Array Sum & Average
+- [x] Q12. Array Sum & Average
 - [ ] Q13. Find Max & Min in Array
 - [ ] Q14. Reverse Array
 
