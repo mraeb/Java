@@ -50,7 +50,7 @@
 
 #### Day 3 - Array Basics  
 - [x] Q12. Array Sum & Average
-- [ ] Q13. Find Max & Min in Array
+- [x] Q13. Find Max & Min in Array
 - [ ] Q14. Reverse Array
 
 #### Day 4 - Methods
