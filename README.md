@@ -51,7 +51,7 @@
 #### Day 3 - Array Basics  
 - [x] Q12. Array Sum & Average
 - [x] Q13. Find Max & Min in Array
-- [ ] Q14. Reverse Array
+- [x] Q14. Reverse Array
 
 #### Day 4 - Methods
 - [ ] Q15. Simple Math Functions, create methods for add, subtract, multiply functions create & call.
