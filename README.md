@@ -58,4 +58,5 @@
 - [ ] Q16. Prime Check Function create a method for checking prime or not - "isPrime.java".
 
 Feel free to fork/star! Feedback welcome 🔥
+Follow me on IG.
 
